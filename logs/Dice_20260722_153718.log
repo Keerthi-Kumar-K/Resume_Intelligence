@@ -1,0 +1,370 @@
+======================================================================
+DICE SCRAPER STARTED
+======================================================================
+Search URL: https://www.dice.com/jobs?filters.postedDate=ONE&q=data
+Output Folder: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260722_153713
+
+Launching browser...
+Search Keyword: data
+
+Collecting Dice job links...
+
+Page 1
+Found 5 links
+Total unique links : 5
+
+Page 2
+Found 5 links
+Total unique links : 10
+
+Page 3
+Found 1 links
+Total unique links : 11
+
+Page 4
+Found 5 links
+Total unique links : 16
+
+Page 5
+Found 5 links
+Total unique links : 21
+
+Page 6
+Found 5 links
+Total unique links : 26
+
+Page 7
+Found 5 links
+Total unique links : 31
+
+Page 8
+Found 5 links
+Total unique links : 36
+
+Page 9
+Found 5 links
+Total unique links : 41
+
+Page 10
+Found 5 links
+Total unique links : 46
+
+Page 11
+Found 5 links
+Total unique links : 51
+
+Page 12
+Found 5 links
+Total unique links : 56
+
+Page 13
+Found 5 links
+Total unique links : 61
+
+Page 14
+Found 5 links
+Total unique links : 66
+
+Page 15
+Found 5 links
+Total unique links : 71
+
+Page 16
+Found 5 links
+Total unique links : 76
+
+Page 17
+Found 5 links
+Total unique links : 81
+
+Page 18
+Found 5 links
+Total unique links : 86
+
+Page 19
+Found 5 links
+Total unique links : 91
+
+Page 20
+Found 5 links
+Total unique links : 96
+
+Page 21
+Found 5 links
+Total unique links : 101
+
+Page 22
+Found 5 links
+Total unique links : 106
+
+Page 23
+Found 5 links
+Total unique links : 111
+
+Page 24
+Found 1 links
+Total unique links : 112
+
+Page 25
+Found 5 links
+Total unique links : 117
+
+Page 26
+Found 5 links
+Total unique links : 117
+No new jobs. Stopping.
+Total unique job links collected: 117
+New jobs to scrape: 117
+
+Starting job-description extraction...
+
+Scraping 117 jobs
+[1/117]
+Data Management Analyst 4
+[2/117]
+Associate Director, Real World Data Science
+[3/117]
+Need Data Engineer (AWS) / Databricks - Dallas, TX
+[4/117]
+Failed
+[5/117]
+Failed
+[6/117]
+Failed
+[7/117]
+Failed
+[8/117]
+Failed
+[9/117]
+Failed
+[10/117]
+Databricks Architect
+[11/117]
+Technical Project Manager (Data Controls & Compliance Reporting)
+[12/117]
+Senior BI/Tableau Analyst
+[13/117]
+Failed
+[14/117]
+Failed
+[15/117]
+Reltio MDM Lead
+[16/117]
+Failed
+[17/117]
+Databricks
+[18/117]
+Failed
+[19/117]
+Data Governance Specialist/Lead
+[20/117]
+Failed
+[21/117]
+Senior Data Scientist - Utilization Management
+[22/117]
+Data Engineer
+[23/117]
+Failed
+[24/117]
+Sr. Database Admin/Engineer - Exadata
+[25/117]
+Failed
+[26/117]
+Data CenterNetworkEngineer III
+[27/117]
+Senior Data Engineer
+[28/117]
+Failed
+[29/117]
+Manager of Data Governance
+[30/117]
+Lead Data Analyst, Data Products
+[31/117]
+Failed
+[32/117]
+Data Scientist
+[33/117]
+Failed
+[34/117]
+Failed
+[35/117]
+Failed
+[36/117]
+Failed
+[37/117]
+Failed
+[38/117]
+Failed
+[39/117]
+Failed
+[40/117]
+Failed
+[41/117]
+Failed
+[42/117]
+Failed
+[43/117]
+Senior/Staff Analytics Engineer - Monetization
+[44/117]
+Data Architect
+[45/117]
+Oracle NetSuite Solution Consultant, Intelligent Analytics & AI
+[46/117]
+Solution Engineer - Analytics
+[47/117]
+Senior Data Engineer
+[48/117]
+Failed
+[49/117]
+Failed
+[50/117]
+Failed
+[51/117]
+Failed
+[52/117]
+Engineer II, Quality Analytics & Platform Insights
+[53/117]
+Project Data Lead/Project Data Manager with Required Local Candidates and Public Sector experience
+[54/117]
+Failed
+[55/117]
+Reltio MDM Lead
+[56/117]
+Failed
+[57/117]
+Sr. Oracle Database Engineer (Development & Administration)
+[58/117]
+Data Entry Clerk
+[59/117]
+Failed
+[60/117]
+Failed
+[61/117]
+(USA) Staff, Data Scientist
+[62/117]
+Failed
+[63/117]
+(USA) Senior, Data Scientist
+[64/117]
+Failed
+[65/117]
+Failed
+[66/117]
+Sr. Data Analyst
+[67/117]
+Data Entry Clerk
+[68/117]
+Oracle Database Administrator
+[69/117]
+IT Program Manager - Enterprise Data Management
+[70/117]
+Failed
+[71/117]
+Reltio MDM Lead
+[72/117]
+Sr. Database Admin / Engineer - Exadata
+[73/117]
+Failed
+[74/117]
+Analytics Engineer
+[75/117]
+Failed
+[76/117]
+Failed
+[77/117]
+Data Governance Manager
+[78/117]
+Databricks Engineer (PySpark, AWS, Python)
+[79/117]
+Associate Data Scientist
+[80/117]
+Failed
+[81/117]
+Data Scientist
+[82/117]
+Failed
+[83/117]
+Data Analyst
+[84/117]
+Senior data engineer_Hybrid@Charlotte, NC
+[85/117]
+Failed
+[86/117]
+Business Intelligence Manager - Manheim Client Consulting
+[87/117]
+Data Analytics Project manager ( In Person Interview at Austin, Texas)
+[88/117]
+HDS Senior Data Analyst
+[89/117]
+Sr. Data Engineer (Scala)
+[90/117]
+IT Support Data Scientist, Employee Experience & Productivity, IS&T
+[91/117]
+Senior Associate of Morgan Health, Analytics Engineering
+[92/117]
+Reltio MDM Lead
+[93/117]
+Failed
+[94/117]
+Reltio MDM Lead - Richardson, TX (Onsite) - Contract.
+[95/117]
+Sr. Director, IT Supply Chain Platforms, Data and Transformation
+[96/117]
+Failed
+[97/117]
+Senior Data Analyst - AI, Operations & Supply Chain
+[98/117]
+Associate Data Engineer III
+[99/117]
+Failed
+[100/117]
+Senior Application Architect - Test Data Management
+[101/117]
+Senior Manager, Data Analytics
+[102/117]
+Failed
+[103/117]
+Failed
+[104/117]
+Data Scientist
+[105/117]
+Failed
+[106/117]
+Senior Data Scientist - Real World Data
+[107/117]
+Databricks Data Engineer
+[108/117]
+Data Governance Specialist (02304)
+[109/117]
+Associate Director, MedTech Epidemiology and Real World Data Science
+[110/117]
+Failed
+[111/117]
+Sr. Database Developer (Oracle, PL/SQL, Web Technologies & Data Migration)
+[112/117]
+Failed
+[113/117]
+Azure Data Engineer
+[114/117]
+Senior Data Architect (AWS, Azure, Google Cloud Platform)
+[115/117]
+Data Scientist (Multiple Positions)
+[116/117]
+Failed
+[117/117]
+Senior Specialist, Data Governance
+
+Saving output files...
+
+======================================================================
+DICE SCRAPING SUMMARY
+======================================================================
+Links collected: 117
+Jobs successfully saved: 65
+Failed URLs: 52
+======================================================================
+Files saved in: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260722_153713
+Browser closed successfully.
+======================================================================
+DICE SCRAPER FINISHED
+======================================================================

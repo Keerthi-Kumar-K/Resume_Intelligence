@@ -1,0 +1,183 @@
+2026-07-22 19:12:24 | INFO | Starting ATS V4 pipeline.
+2026-07-22 19:12:24 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-22 19:12:24 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-22 19:12:24 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-22 19:12:24 | INFO | Discovered 3 resume files.
+2026-07-22 19:12:24 | INFO | Discovered 2 job files.
+2026-07-22 19:12:25 | INFO | Parsing resume 1/3: Resume_Keerthi_Kumar_Azure_Databricks.pdf
+2026-07-22 19:12:26 | INFO | Parsing resume 2/3: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf
+2026-07-22 19:12:27 | INFO | Parsing resume 3/3: Resume_Keerthi_Kumar_Snowflake.pdf
+2026-07-22 19:12:28 | INFO | Created 3 resume profiles.
+2026-07-22 19:12:28 | INFO | Parsing job file 1/2: Filtered_JDs_20260722_162924.docx
+2026-07-22 19:12:28 | INFO | Parsing job file 2/2: Filtered_JDs_20260722_164540.docx
+2026-07-22 19:12:31 | INFO | Created 76 job profiles.
+2026-07-22 19:12:31 | INFO | Ranking resumes for job 1/76: Data Management Analyst 4
+2026-07-22 19:12:32 | INFO | Completed ranking for Data Management Analyst 4 | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.69
+2026-07-22 19:12:32 | INFO | Ranking resumes for job 2/76: Need Data Engineer (AWS) / Databricks - Dallas, TX
+2026-07-22 19:12:32 | INFO | Completed ranking for Need Data Engineer (AWS) / Databricks - Dallas, TX | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 62.97
+2026-07-22 19:12:32 | INFO | Ranking resumes for job 3/76: Databricks Architect
+2026-07-22 19:12:33 | INFO | Completed ranking for Databricks Architect | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 55.87
+2026-07-22 19:12:33 | INFO | Ranking resumes for job 4/76: Senior BI/Tableau Analyst
+2026-07-22 19:12:33 | INFO | Completed ranking for Senior BI/Tableau Analyst | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 83.52
+2026-07-22 19:12:33 | INFO | Ranking resumes for job 5/76: Databricks
+2026-07-22 19:12:33 | INFO | Completed ranking for Databricks | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 55.79
+2026-07-22 19:12:33 | INFO | Ranking resumes for job 6/76: Data Governance Specialist/Lead
+2026-07-22 19:12:33 | INFO | Completed ranking for Data Governance Specialist/Lead | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 16.75
+2026-07-22 19:12:33 | INFO | Ranking resumes for job 7/76: Senior Data Scientist - Utilization Management
+2026-07-22 19:12:34 | INFO | Completed ranking for Senior Data Scientist - Utilization Management | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 61.34
+2026-07-22 19:12:34 | INFO | Ranking resumes for job 8/76: Data Engineer
+2026-07-22 19:12:34 | INFO | Completed ranking for Data Engineer | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 64.84
+2026-07-22 19:12:34 | INFO | Ranking resumes for job 9/76: Manager of Data Governance
+2026-07-22 19:12:34 | INFO | Completed ranking for Manager of Data Governance | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 16.91
+2026-07-22 19:12:34 | INFO | Ranking resumes for job 10/76: Lead Data Analyst, Data Products
+2026-07-22 19:12:35 | INFO | Completed ranking for Lead Data Analyst, Data Products | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 70.36
+2026-07-22 19:12:35 | INFO | Ranking resumes for job 11/76: Data Scientist
+2026-07-22 19:12:35 | INFO | Completed ranking for Data Scientist | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 60.71
+2026-07-22 19:12:35 | INFO | Ranking resumes for job 12/76: Senior/Staff Analytics Engineer - Monetization
+2026-07-22 19:12:35 | INFO | Completed ranking for Senior/Staff Analytics Engineer - Monetization | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 67.77
+2026-07-22 19:12:35 | INFO | Ranking resumes for job 13/76: Data Architect
+2026-07-22 19:12:36 | INFO | Completed ranking for Data Architect | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 48.52
+2026-07-22 19:12:36 | INFO | Ranking resumes for job 14/76: Oracle NetSuite Solution Consultant, Intelligent Analytics & AI
+2026-07-22 19:12:36 | INFO | Completed ranking for Oracle NetSuite Solution Consultant, Intelligent Analytics & AI | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 69.68
+2026-07-22 19:12:36 | INFO | Ranking resumes for job 15/76: Senior Data Engineer
+2026-07-22 19:12:36 | INFO | Completed ranking for Senior Data Engineer | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 64.97
+2026-07-22 19:12:36 | INFO | Ranking resumes for job 16/76: Engineer II, Quality Analytics & Platform Insights
+2026-07-22 19:12:37 | INFO | Completed ranking for Engineer II, Quality Analytics & Platform Insights | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 56.21
+2026-07-22 19:12:37 | INFO | Ranking resumes for job 17/76: Project Data Lead/Project Data Manager with Required Local Candidates and Public Sector experience
+2026-07-22 19:12:37 | INFO | Completed ranking for Project Data Lead/Project Data Manager with Required Local Candidates and Public Sector experience | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.52
+2026-07-22 19:12:37 | INFO | Ranking resumes for job 18/76: (USA) Staff, Data Scientist
+2026-07-22 19:12:37 | INFO | Completed ranking for (USA) Staff, Data Scientist | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 60.56
+2026-07-22 19:12:37 | INFO | Ranking resumes for job 19/76: Data Governance Manager
+2026-07-22 19:12:38 | INFO | Completed ranking for Data Governance Manager | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 16.72
+2026-07-22 19:12:38 | INFO | Ranking resumes for job 20/76: Databricks Engineer (PySpark, AWS, Python)
+2026-07-22 19:12:38 | INFO | Completed ranking for Databricks Engineer (PySpark, AWS, Python) | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 57.03
+2026-07-22 19:12:38 | INFO | Ranking resumes for job 21/76: HDS Senior Data Analyst
+2026-07-22 19:12:38 | INFO | Completed ranking for HDS Senior Data Analyst | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 70.53
+2026-07-22 19:12:38 | INFO | Ranking resumes for job 22/76: Sr. Data Engineer (Scala)
+2026-07-22 19:12:39 | INFO | Completed ranking for Sr. Data Engineer (Scala) | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 64.97
+2026-07-22 19:12:39 | INFO | Ranking resumes for job 23/76: Senior Associate of Morgan Health, Analytics Engineering
+2026-07-22 19:12:39 | INFO | Completed ranking for Senior Associate of Morgan Health, Analytics Engineering | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.93
+2026-07-22 19:12:39 | INFO | Ranking resumes for job 24/76: Senior Data Analyst - AI, Operations & Supply Chain
+2026-07-22 19:12:39 | INFO | Completed ranking for Senior Data Analyst - AI, Operations & Supply Chain | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 69.17
+2026-07-22 19:12:39 | INFO | Ranking resumes for job 25/76: Associate Data Engineer III
+2026-07-22 19:12:40 | INFO | Completed ranking for Associate Data Engineer III | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 65.12
+2026-07-22 19:12:40 | INFO | Ranking resumes for job 26/76: Senior Application Architect - Test Data Management
+2026-07-22 19:12:40 | INFO | Completed ranking for Senior Application Architect - Test Data Management | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.69
+2026-07-22 19:12:40 | INFO | Ranking resumes for job 27/76: Senior Manager, Data Analytics
+2026-07-22 19:12:40 | INFO | Completed ranking for Senior Manager, Data Analytics | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.85
+2026-07-22 19:12:40 | INFO | Ranking resumes for job 28/76: Senior Data Scientist - Real World Data
+2026-07-22 19:12:41 | INFO | Completed ranking for Senior Data Scientist - Real World Data | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 60.99
+2026-07-22 19:12:41 | INFO | Ranking resumes for job 29/76: Databricks Data Engineer
+2026-07-22 19:12:41 | INFO | Completed ranking for Databricks Data Engineer | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 56.57
+2026-07-22 19:12:41 | INFO | Ranking resumes for job 30/76: Data Governance Specialist (02304)
+2026-07-22 19:12:41 | INFO | Completed ranking for Data Governance Specialist (02304) | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 16.67
+2026-07-22 19:12:41 | INFO | Ranking resumes for job 31/76: Azure Data Engineer
+2026-07-22 19:12:42 | INFO | Completed ranking for Azure Data Engineer | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 64.55
+2026-07-22 19:12:42 | INFO | Ranking resumes for job 32/76: Senior Data Architect (AWS, Azure, Google Cloud Platform)
+2026-07-22 19:12:42 | INFO | Completed ranking for Senior Data Architect (AWS, Azure, Google Cloud Platform) | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 49.23
+2026-07-22 19:12:42 | INFO | Ranking resumes for job 33/76: Data Scientist (Multiple Positions)
+2026-07-22 19:12:42 | INFO | Completed ranking for Data Scientist (Multiple Positions) | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 60.61
+2026-07-22 19:12:42 | INFO | Ranking resumes for job 34/76: data entry clerk.
+2026-07-22 19:12:43 | INFO | Completed ranking for data entry clerk. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 39.79
+2026-07-22 19:12:43 | INFO | Ranking resumes for job 35/76: supply chain data analyst .
+2026-07-22 19:12:43 | INFO | Completed ranking for supply chain data analyst . | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 55.93
+2026-07-22 19:12:43 | INFO | Ranking resumes for job 36/76: data analyst - risk analysis.
+2026-07-22 19:12:43 | INFO | Completed ranking for data analyst - risk analysis. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 55.91
+2026-07-22 19:12:43 | INFO | Ranking resumes for job 37/76: data analyst + data entry.
+2026-07-22 19:12:44 | INFO | Completed ranking for data analyst + data entry. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 56.72
+2026-07-22 19:12:44 | INFO | Ranking resumes for job 38/76: information data architect.
+2026-07-22 19:12:44 | INFO | Completed ranking for information data architect. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 32.72
+2026-07-22 19:12:44 | INFO | Ranking resumes for job 39/76: senior data quality engineer.
+2026-07-22 19:12:44 | INFO | Completed ranking for senior data quality engineer. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 0.32
+2026-07-22 19:12:44 | INFO | Ranking resumes for job 40/76: senior data scientist.
+2026-07-22 19:12:45 | INFO | Completed ranking for senior data scientist. | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 59.95
+2026-07-22 19:12:45 | INFO | Ranking resumes for job 41/76: supply chain master data management analyst.
+2026-07-22 19:12:45 | INFO | Completed ranking for supply chain master data management analyst. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 56.07
+2026-07-22 19:12:45 | INFO | Ranking resumes for job 42/76: sr data analyst.
+2026-07-22 19:12:45 | INFO | Completed ranking for sr data analyst. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 68.36
+2026-07-22 19:12:45 | INFO | Ranking resumes for job 43/76: data engineer.
+2026-07-22 19:12:46 | INFO | Completed ranking for data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 53.17
+2026-07-22 19:12:46 | INFO | Ranking resumes for job 44/76: big data engineer.
+2026-07-22 19:12:46 | INFO | Completed ranking for big data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 52.92
+2026-07-22 19:12:46 | INFO | Ranking resumes for job 45/76: data engineering technical lead.
+2026-07-22 19:12:47 | INFO | Completed ranking for data engineering technical lead. | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 51.99
+2026-07-22 19:12:47 | INFO | Ranking resumes for job 46/76: data analyst.
+2026-07-22 19:12:47 | INFO | Completed ranking for data analyst. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 56.35
+2026-07-22 19:12:47 | INFO | Ranking resumes for job 47/76: aws data architect lead.
+2026-07-22 19:12:47 | INFO | Completed ranking for aws data architect lead. | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 48.61
+2026-07-22 19:12:47 | INFO | Ranking resumes for job 48/76: data analyst.
+2026-07-22 19:12:48 | INFO | Completed ranking for data analyst. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 54.10
+2026-07-22 19:12:48 | INFO | Ranking resumes for job 49/76: data engineer.
+2026-07-22 19:12:48 | INFO | Completed ranking for data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 52.51
+2026-07-22 19:12:48 | INFO | Ranking resumes for job 50/76: data engineer.
+2026-07-22 19:12:48 | INFO | Completed ranking for data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 52.51
+2026-07-22 19:12:48 | INFO | Ranking resumes for job 51/76: databricks data engineer.
+2026-07-22 19:12:49 | INFO | Completed ranking for databricks data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 47.60
+2026-07-22 19:12:49 | INFO | Ranking resumes for job 52/76: business intelligence data modeler.
+2026-07-22 19:12:49 | INFO | Completed ranking for business intelligence data modeler. | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 53.72
+2026-07-22 19:12:49 | INFO | Ranking resumes for job 53/76: sap businessobjects data services (sap bods) specialist.
+2026-07-22 19:12:49 | INFO | Completed ranking for sap businessobjects data services (sap bods) specialist. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 69.32
+2026-07-22 19:12:49 | INFO | Ranking resumes for job 54/76: big data engineer.
+2026-07-22 19:12:50 | INFO | Completed ranking for big data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 53.26
+2026-07-22 19:12:50 | INFO | Ranking resumes for job 55/76: data solutions engineer- 10990.
+2026-07-22 19:12:50 | INFO | Completed ranking for data solutions engineer- 10990. | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 5.30
+2026-07-22 19:12:50 | INFO | Ranking resumes for job 56/76: sr. data engineer.
+2026-07-22 19:12:50 | INFO | Completed ranking for sr. data engineer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 50.49
+2026-07-22 19:12:50 | INFO | Ranking resumes for job 57/76: sap s/4hana business partner data migration functional designer.
+2026-07-22 19:12:51 | INFO | Completed ranking for sap s/4hana business partner data migration functional designer. | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 20.65
+2026-07-22 19:12:51 | INFO | Ranking resumes for job 58/76: 2024 data jobs found
+2026-07-22 19:12:51 | INFO | Completed ranking for 2024 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 57.60
+2026-07-22 19:12:51 | INFO | Ranking resumes for job 59/76: 2024 data jobs found
+2026-07-22 19:12:51 | INFO | Completed ranking for 2024 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 57.58
+2026-07-22 19:12:51 | INFO | Ranking resumes for job 60/76: 1 data job found
+2026-07-22 19:12:52 | INFO | Completed ranking for 1 data job found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 48.42
+2026-07-22 19:12:52 | INFO | Ranking resumes for job 61/76: 4 data jobs found
+2026-07-22 19:12:52 | INFO | Completed ranking for 4 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 56.66
+2026-07-22 19:12:52 | INFO | Ranking resumes for job 62/76: 256 data jobs found
+2026-07-22 19:12:52 | INFO | Completed ranking for 256 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 54.86
+2026-07-22 19:12:52 | INFO | Ranking resumes for job 63/76: 531 data jobs found
+2026-07-22 19:12:53 | INFO | Completed ranking for 531 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 53.17
+2026-07-22 19:12:53 | INFO | Ranking resumes for job 64/76: 5 data jobs found
+2026-07-22 19:12:53 | INFO | Completed ranking for 5 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 36.47
+2026-07-22 19:12:53 | INFO | Ranking resumes for job 65/76: 1 data job found
+2026-07-22 19:12:53 | INFO | Completed ranking for 1 data job found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.88
+2026-07-22 19:12:53 | INFO | Ranking resumes for job 66/76: 26 data jobs found
+2026-07-22 19:12:54 | INFO | Completed ranking for 26 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 26.75
+2026-07-22 19:12:54 | INFO | Ranking resumes for job 67/76: 13 data jobs found
+2026-07-22 19:12:54 | INFO | Completed ranking for 13 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 55.61
+2026-07-22 19:12:54 | INFO | Ranking resumes for job 68/76: 128 data jobs found
+2026-07-22 19:12:54 | INFO | Completed ranking for 128 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 69.96
+2026-07-22 19:12:54 | INFO | Ranking resumes for job 69/76: 22 data jobs found
+2026-07-22 19:12:55 | INFO | Completed ranking for 22 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 56.00
+2026-07-22 19:12:55 | INFO | Ranking resumes for job 70/76: 82 data jobs found
+2026-07-22 19:12:55 | INFO | Completed ranking for 82 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 68.99
+2026-07-22 19:12:55 | INFO | Ranking resumes for job 71/76: 374 data jobs found
+2026-07-22 19:12:56 | INFO | Completed ranking for 374 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 70.32
+2026-07-22 19:12:56 | INFO | Ranking resumes for job 72/76: 48 data jobs found
+2026-07-22 19:12:56 | INFO | Completed ranking for 48 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 37.33
+2026-07-22 19:12:56 | INFO | Ranking resumes for job 73/76: 63 data jobs found
+2026-07-22 19:12:56 | INFO | Completed ranking for 63 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 55.71
+2026-07-22 19:12:56 | INFO | Ranking resumes for job 74/76: 475 data jobs found
+2026-07-22 19:12:57 | INFO | Completed ranking for 475 data jobs found | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 52.69
+2026-07-22 19:12:57 | INFO | Ranking resumes for job 75/76: 614 data jobs found
+2026-07-22 19:12:57 | INFO | Completed ranking for 614 data jobs found | Best Resume: Resume_Keerthi_Kumar_Snowflake.pdf | Best Score: 53.24
+2026-07-22 19:12:57 | INFO | Ranking resumes for job 76/76: 502 data jobs found
+2026-07-22 19:12:57 | INFO | Completed ranking for 502 data jobs found | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 70.46
+2026-07-22 19:12:57 | INFO | Generating Excel report: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_191224.xlsx
+2026-07-22 19:12:59 | INFO | Excel report generated successfully: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_191224.xlsx
+2026-07-22 19:12:59 | INFO | ================================================================
+2026-07-22 19:12:59 | INFO | ATS V4 EXECUTION SUMMARY
+2026-07-22 19:12:59 | INFO | ================================================================
+2026-07-22 19:12:59 | INFO | Resume files found       : 3
+2026-07-22 19:12:59 | INFO | Resume profiles created  : 3
+2026-07-22 19:12:59 | INFO | Resume failures          : 0
+2026-07-22 19:12:59 | INFO | Job files found          : 2
+2026-07-22 19:12:59 | INFO | Job profiles created     : 76
+2026-07-22 19:12:59 | INFO | Job parsing failures     : 0
+2026-07-22 19:12:59 | INFO | Jobs ranked              : 76
+2026-07-22 19:12:59 | INFO | Comparisons completed    : 228
+2026-07-22 19:12:59 | INFO | Ranking failures         : 0
+2026-07-22 19:12:59 | INFO | Report generated         : True
+2026-07-22 19:12:59 | INFO | Execution time           : 34.82 seconds
+2026-07-22 19:12:59 | INFO | Output report           : C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_191224.xlsx
+2026-07-22 19:12:59 | INFO | ================================================================

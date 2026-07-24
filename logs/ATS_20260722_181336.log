@@ -1,0 +1,28 @@
+2026-07-22 18:13:36 | INFO | Starting ATS V4 pipeline.
+2026-07-22 18:13:36 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-22 18:13:36 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-22 18:13:36 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-22 18:13:36 | INFO | Discovered 0 resume files.
+2026-07-22 18:13:36 | INFO | Discovered 0 job files.
+2026-07-22 18:13:36 | ERROR | ATS pipeline failed: No supported resume files were found.
+Traceback (most recent call last):
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 1269, in run_pipeline
+    validate_pipeline_inputs(
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 897, in validate_pipeline_inputs
+    raise FileNotFoundError(
+FileNotFoundError: No supported resume files were found.
+2026-07-22 18:13:36 | INFO | ================================================================
+2026-07-22 18:13:36 | INFO | ATS V4 EXECUTION SUMMARY
+2026-07-22 18:13:36 | INFO | ================================================================
+2026-07-22 18:13:36 | INFO | Resume files found       : 0
+2026-07-22 18:13:36 | INFO | Resume profiles created  : 0
+2026-07-22 18:13:36 | INFO | Resume failures          : 0
+2026-07-22 18:13:36 | INFO | Job files found          : 0
+2026-07-22 18:13:36 | INFO | Job profiles created     : 0
+2026-07-22 18:13:36 | INFO | Job parsing failures     : 0
+2026-07-22 18:13:36 | INFO | Jobs ranked              : 0
+2026-07-22 18:13:36 | INFO | Comparisons completed    : 0
+2026-07-22 18:13:36 | INFO | Ranking failures         : 0
+2026-07-22 18:13:36 | INFO | Report generated         : False
+2026-07-22 18:13:36 | INFO | Execution time           : 0.01 seconds
+2026-07-22 18:13:36 | INFO | ================================================================

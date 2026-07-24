@@ -1,0 +1,382 @@
+======================================================================
+DICE SCRAPER STARTED
+======================================================================
+Search URL: https://www.dice.com/jobs?filters.postedDate=ONE&q=data
+Output Folder: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260723_004421
+
+Launching browser...
+Search Keyword: data
+
+Collecting Dice job links...
+
+Page 1
+Found 5 links
+Total unique links : 5
+
+Page 2
+Found 5 links
+Total unique links : 10
+
+Page 3
+Found 5 links
+Total unique links : 15
+
+Page 4
+Found 5 links
+Total unique links : 20
+
+Page 5
+Found 5 links
+Total unique links : 25
+
+Page 6
+Found 5 links
+Total unique links : 30
+
+Page 7
+Found 5 links
+Total unique links : 35
+
+Page 8
+Found 5 links
+Total unique links : 40
+
+Page 9
+Found 5 links
+Total unique links : 45
+
+Page 10
+Found 5 links
+Total unique links : 50
+
+Page 11
+Found 5 links
+Total unique links : 55
+
+Page 12
+Found 5 links
+Total unique links : 60
+
+Page 13
+Found 2 links
+Total unique links : 62
+
+Page 14
+Found 5 links
+Total unique links : 67
+
+Page 15
+Found 5 links
+Total unique links : 72
+
+Page 16
+Found 2 links
+Total unique links : 74
+
+Page 17
+Found 5 links
+Total unique links : 79
+
+Page 18
+Found 4 links
+Total unique links : 83
+
+Page 19
+Found 5 links
+Total unique links : 88
+
+Page 20
+Found 5 links
+Total unique links : 93
+
+Page 21
+Found 5 links
+Total unique links : 98
+
+Page 22
+Found 1 links
+Total unique links : 99
+
+Page 23
+Found 5 links
+Total unique links : 104
+
+Page 24
+Found 5 links
+Total unique links : 109
+
+Page 25
+Found 5 links
+Total unique links : 114
+
+Page 26
+Found 5 links
+Total unique links : 119
+
+Page 27
+Found 5 links
+Total unique links : 124
+
+Page 28
+Found 5 links
+Total unique links : 124
+No new jobs. Stopping.
+Total unique job links collected: 124
+New jobs to scrape: 119
+
+Starting job-description extraction...
+
+Scraping 119 jobs
+[1/119]
+Data Engineer
+[2/119]
+Middle Office Data Lead, Managing Director
+[3/119]
+Senior Machine Learning Engineer III ***Raleigh, NC***
+[4/119]
+Failed
+[5/119]
+Failed
+[6/119]
+Failed
+[7/119]
+Failed
+[8/119]
+Failed
+[9/119]
+Principal Data Scientist
+[10/119]
+Failed
+[11/119]
+Failed
+[12/119]
+*Data Engineer - MDM* W2 Role
+[13/119]
+Data Engineer
+[14/119]
+Failed
+[15/119]
+Director of AI Customer Success - Customer Data Platform
+[16/119]
+Sr. Java Streaming Engineer
+[17/119]
+MicroStrategy Developer - (Data Analytics, BI), Onsite - 69402
+[18/119]
+Failed
+[19/119]
+Failed
+[20/119]
+Senior IT Data Engineer (onsite)
+[21/119]
+Failed
+[22/119]
+DATA ENGINEER
+[23/119]
+Enterprise Architect ? Data, AI
+[24/119]
+Failed
+[25/119]
+Failed
+[26/119]
+Enterprise Architect - Data, AI
+[27/119]
+SAP S/4HANA Business Partner Data Migration Functional Designer
+[28/119]
+Principal Enterprise Data Architect
+[29/119]
+Failed
+[30/119]
+AIT - AI Data Scientist Manager
+[31/119]
+Principal Machine Learning Engineer I
+[32/119]
+Failed
+[33/119]
+Data Architect
+[34/119]
+Failed
+[35/119]
+Failed
+[36/119]
+Failed
+[37/119]
+Failed
+[38/119]
+Failed
+[39/119]
+Lead Streaming Data Engineer
+[40/119]
+Human Capital Data Analyst
+[41/119]
+Business Analyst / EDI Functional Analyst
+[42/119]
+Enterprise Architect - Data, AI
+[43/119]
+Failed
+[44/119]
+Data Engineer - Databricks
+[45/119]
+Failed
+[46/119]
+Operation Excellence Process Improvement Black Belt(s)
+[47/119]
+Lead Data Architect
+[48/119]
+Teradata Architect (Hybrid Onsite)
+[49/119]
+Failed
+[50/119]
+Failed
+[51/119]
+Data Architect
+[52/119]
+Failed
+[53/119]
+Failed
+[54/119]
+Failed
+[55/119]
+Failed
+[56/119]
+Failed
+[57/119]
+Failed
+[58/119]
+Failed
+[59/119]
+AWS Cloud Data Engineer
+[60/119]
+*Data Architect* - W2 role
+[61/119]
+Failed
+[62/119]
+Mid Data Scientist
+[63/119]
+Lead Streaming Data Engineer
+[64/119]
+Data Entry Clerk
+[65/119]
+Data Engineer
+[66/119]
+Failed
+[67/119]
+Failed
+[68/119]
+Principal - Cloud Data Architect
+[69/119]
+Power BI Lead / Architect with Strong MicroStrategy Exp - W2 Only - Locals Preferred
+[70/119]
+Failed
+[71/119]
+Data Engineer – AWS OpenSearch
+[72/119]
+Data Architect
+[73/119]
+Failed
+[74/119]
+Failed
+[75/119]
+Failed
+[76/119]
+Data Security Analyst - Hybrid - W2 only
+[77/119]
+Database Administrator
+[78/119]
+Master Data Engineer - 3594658
+[79/119]
+Principal Machine Learning Engineer I
+[80/119]
+Data Entry Clerk
+[81/119]
+Failed
+[82/119]
+Failed
+[83/119]
+Failed
+[84/119]
+EDP Data Architect with Google Cloud Platform
+[85/119]
+Failed
+[86/119]
+Data Engineer
+[87/119]
+Failed
+[88/119]
+Failed
+[89/119]
+AIT - AI Data Scientist Senior Associate
+[90/119]
+Senior Database Platform Engineer
+[91/119]
+Data Scientist
+[92/119]
+Senior Database Administrator
+[93/119]
+Failed
+[94/119]
+Staff Data Scientist
+[95/119]
+EDP Data Architect
+[96/119]
+Failed
+[97/119]
+Failed
+[98/119]
+Data Warehouse Architect (Onsite)
+[99/119]
+Failed
+[100/119]
+Mid Financial Intelligence Data Analyst
+[101/119]
+Enterprise Architect - Data, AI
+[102/119]
+DATA ENGINEER
+[103/119]
+Data Architect
+[104/119]
+Failed
+[105/119]
+Failed
+[106/119]
+Failed
+[107/119]
+Failed
+[108/119]
+Data Engineer
+[109/119]
+Google Data Architect
+[110/119]
+Failed
+[111/119]
+Failed
+[112/119]
+Senior Machine Learning Engineer III ***Raleigh, NC***
+[113/119]
+SAP S4HANA B2R Data Conversion SME (17600)
+[114/119]
+SQL Server Database Administrator
+[115/119]
+Data Analytics Lead - Data Scientist - Vice President - C13 - TAMPA
+[116/119]
+Failed
+[117/119]
+Failed
+[118/119]
+SAP S4HANA P2P Data Conversion SME (17599)
+[119/119]
+Enterprise Architect - Data, AI
+
+Saving output files...
+
+======================================================================
+DICE SCRAPING SUMMARY
+======================================================================
+Links collected: 119
+Jobs successfully saved: 63
+Failed URLs: 56
+======================================================================
+Files saved in: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260723_004421
+Browser closed successfully.
+======================================================================
+DICE SCRAPER FINISHED
+======================================================================

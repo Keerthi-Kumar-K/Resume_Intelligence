@@ -1,0 +1,221 @@
+======================================================================
+DICE SCRAPER STARTED
+======================================================================
+Search URL: https://www.dice.com/jobs?filters.postedDate=ONE&q=data
+Output Folder: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260721_101829
+
+Launching browser...
+Search Keyword: data
+
+Collecting Dice job links...
+
+Page 1
+Found 5 links
+Total unique links : 5
+
+Page 2
+Found 5 links
+Total unique links : 10
+
+Page 3
+Found 5 links
+Total unique links : 15
+
+Page 4
+Found 5 links
+Total unique links : 20
+
+Page 5
+Found 5 links
+Total unique links : 25
+
+Page 6
+Found 1 links
+Total unique links : 26
+
+Page 7
+Found 5 links
+Total unique links : 31
+
+Page 8
+Found 5 links
+Total unique links : 36
+
+Page 9
+Found 5 links
+Total unique links : 41
+
+Page 10
+Found 5 links
+Total unique links : 46
+
+Page 11
+Found 5 links
+Total unique links : 51
+
+Page 12
+Found 5 links
+Total unique links : 56
+
+Page 13
+Found 5 links
+Total unique links : 61
+
+Page 14
+Found 4 links
+Total unique links : 65
+
+Page 15
+Found 3 links
+Total unique links : 65
+No new jobs. Stopping.
+Total unique job links collected: 65
+
+Starting job-description extraction...
+
+Scraping 65 jobs
+[1/65]
+Data Systems Manager - Enterprise Applications
+[2/65]
+Data Platform Engineer
+[3/65]
+Data Systems Administrator - Network Services
+[4/65]
+Data Scientist, Expert
+[5/65]
+Product Owner (Data Quality)
+[6/65]
+Data Scientist, Expert
+[7/65]
+Data Scientist, Expert
+[8/65]
+Data Engineer
+[9/65]
+Data Systems Administrator - IT Device Operations
+[10/65]
+Data Scientist, Expert
+[11/65]
+Data Analyst
+[12/65]
+Failed
+[13/65]
+Product Owner with Data Quality
+[14/65]
+Data Scientist, Expert
+[15/65]
+Green Belt - Business Process Consultant
+[16/65]
+Data Scientist, Expert
+[17/65]
+Failed
+[18/65]
+Enterprise Data Architect
+[19/65]
+Data Scientist, Expert
+[20/65]
+Failed
+[21/65]
+Dataiku Platform engineer
+[22/65]
+Failed
+[23/65]
+Data Scientist, Expert
+[24/65]
+Data Scientist, Expert
+[25/65]
+Manager, Data Analytics
+[26/65]
+Product Owner (Data Quality)
+[27/65]
+Data Systems Administrator - Governance & Business Management
+[28/65]
+Data Scientist, Expert
+[29/65]
+Data Scientist, Expert
+[30/65]
+Sr Data Engineer -W2
+[31/65]
+Data Modeler
+[32/65]
+Data Scientist, Expert
+[33/65]
+Data Analyst / Engineer (5 to 10 Years Experience) | W-2 Opportunities
+[34/65]
+Data Architect - Modern Enterprise Data Platform
+[35/65]
+Failed
+[36/65]
+Data Quality Product Owner
+[37/65]
+Failed
+[38/65]
+Data Analytics Engineer - Qlik and Looker
+[39/65]
+Data Scientist, Expert
+[40/65]
+Data Scientist, Expert
+[41/65]
+Data Loss Prevention (DLP) & Microsoft Purview Specialist
+[42/65]
+Failed
+[43/65]
+Analytics Engineer
+[44/65]
+Business Process & Data Analyst
+[45/65]
+Senior Data Engineer
+[46/65]
+Data Analyst
+[47/65]
+Data Modeler
+[48/65]
+Failed
+[49/65]
+Data Engineer
+[50/65]
+Business Analyst - Data Analytics & Reporting
+[51/65]
+Failed
+[52/65]
+Dataiku Platform Engineer - Locals to OH
+[53/65]
+Data Scientist, Expert
+[54/65]
+Data Scientist, Expert
+[55/65]
+Failed
+[56/65]
+Data Scientist, Expert
+[57/65]
+Business Process & Data Analyst
+[58/65]
+Data Scientist, Expert
+[59/65]
+Data Modeler - ACORD Framework (Insurance Domain) : Remote Opportunity : Long Term Contract
+[60/65]
+Data Scientist, Expert
+[61/65]
+Product Owner (Data Quality) @ 100% Remote (Must live in EST Time Zone only)
+[62/65]
+Data Systems Administrator - Enterprise Architecture
+[63/65]
+Data Scientist, Expert
+[64/65]
+Business Process & Data Analyst
+[65/65]
+Failed
+
+Saving output files...
+
+======================================================================
+DICE SCRAPING SUMMARY
+======================================================================
+Links collected: 65
+Jobs successfully saved: 54
+Failed URLs: 11
+======================================================================
+Files saved in: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260721_101829
+Browser closed successfully.
+======================================================================
+DICE SCRAPER FINISHED
+======================================================================

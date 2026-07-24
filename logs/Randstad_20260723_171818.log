@@ -1,0 +1,210 @@
+======================================================================
+RANDSTAD SCRAPER STARTED
+======================================================================
+Search URL : https://www.randstadusa.com/jobs/q-data/
+Output Folder : C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Randstad_20260723_171817
+
+Launching browser...
+Search Keyword : randstad
+
+Collecting job links...
+
+Scanning Page 1
+Found 85 links
+Unique links: 85
+
+Scanning Page 2
+Found 85 links
+Unique links: 85
+No new links detected.
+Collected 85 unique links.
+New jobs to scrape: 85
+
+Extracting job descriptions...
+
+Extracting 85 jobs...
+[1/85]
+Failed
+[2/85]
+service line principal (data and insights).
+[3/85]
+data entry clerk.
+[4/85]
+supply chain data analyst .
+[5/85]
+data analyst - risk analysis.
+[6/85]
+data entry 1.
+[7/85]
+data analyst + data entry.
+[8/85]
+information data architect.
+[9/85]
+senior data quality engineer.
+[10/85]
+data scientist.
+[11/85]
+senior data scientist.
+[12/85]
+supply chain master data management analyst.
+[13/85]
+sr data analyst.
+[14/85]
+data analyst.
+[15/85]
+data engineer.
+[16/85]
+big data engineer.
+[17/85]
+data engineering technical lead.
+[18/85]
+data analyst.
+[19/85]
+aws data architect lead.
+[20/85]
+project manager/data consultant.
+[21/85]
+senior data engineer - telmai data observability specialist.
+[22/85]
+data engineer.
+[23/85]
+data engineer.
+[24/85]
+databricks data engineer.
+[25/85]
+business intelligence data modeler.
+[26/85]
+sap businessobjects data services (sap bods) specialist.
+[27/85]
+big data engineer.
+[28/85]
+data architect.
+[29/85]
+sr. data engineer.
+[30/85]
+senior data engineer.
+[31/85]
+active directory business analyst.
+[32/85]
+Failed
+[33/85]
+Failed
+[34/85]
+Failed
+[35/85]
+2035 data jobs found
+[36/85]
+2035 data jobs found
+[37/85]
+2 data jobs found
+[38/85]
+Failed
+[39/85]
+4 data jobs found
+[40/85]
+259 data jobs found
+[41/85]
+1 data job found
+[42/85]
+538 data jobs found
+[43/85]
+8 data jobs found
+[44/85]
+1 data job found
+[45/85]
+5 data jobs found
+[46/85]
+1 data job found
+[47/85]
+25 data jobs found
+[48/85]
+82 data jobs found
+[49/85]
+14 data jobs found
+[50/85]
+120 data jobs found
+[51/85]
+26 data jobs found
+[52/85]
+83 data jobs found
+[53/85]
+381 data jobs found
+[54/85]
+1 data job found
+[55/85]
+377 data jobs found
+[56/85]
+2 data jobs found
+[57/85]
+39 data jobs found
+[58/85]
+66 data jobs found
+[59/85]
+477 data jobs found
+[60/85]
+629 data jobs found
+[61/85]
+400 data jobs found
+[62/85]
+499 data jobs found
+[63/85]
+Failed
+[64/85]
+Failed
+[65/85]
+Failed
+[66/85]
+Failed
+[67/85]
+Failed
+[68/85]
+Failed
+[69/85]
+Failed
+[70/85]
+Failed
+[71/85]
+Failed
+[72/85]
+Failed
+[73/85]
+Failed
+[74/85]
+Failed
+[75/85]
+Failed
+[76/85]
+Failed
+[77/85]
+Failed
+[78/85]
+Failed
+[79/85]
+Failed
+[80/85]
+Failed
+[81/85]
+Failed
+[82/85]
+Failed
+[83/85]
+Failed
+[84/85]
+Failed
+[85/85]
+Failed
+
+Saving output files...
+
+============================================================
+RANDSTAD SUMMARY
+============================================================
+Links : 57
+Jobs  : 57
+Failed: 28
+============================================================
+
+Randstad scraping completed successfully.
+======================================================================
+RANDSTAD SCRAPER FINISHED
+======================================================================

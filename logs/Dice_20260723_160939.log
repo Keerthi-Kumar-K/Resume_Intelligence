@@ -1,0 +1,382 @@
+======================================================================
+DICE SCRAPER STARTED
+======================================================================
+Search URL: https://www.dice.com/jobs?filters.postedDate=ONE&filters.employmentType=FULLTIME%7CPARTTIME%7CCONTRACTS%7CTHIRD_PARTY&q=data
+Output Folder: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260723_160936
+
+Launching browser...
+Search Keyword: data
+
+Collecting Dice job links...
+
+Page 1
+Found 5 links
+Total unique links : 5
+
+Page 2
+Found 5 links
+Total unique links : 10
+
+Page 3
+Found 5 links
+Total unique links : 14
+
+Page 4
+Found 5 links
+Total unique links : 19
+
+Page 5
+Found 5 links
+Total unique links : 24
+
+Page 6
+Found 5 links
+Total unique links : 28
+
+Page 7
+Found 5 links
+Total unique links : 32
+
+Page 8
+Found 5 links
+Total unique links : 37
+
+Page 9
+Found 5 links
+Total unique links : 41
+
+Page 10
+Found 5 links
+Total unique links : 46
+
+Page 11
+Found 5 links
+Total unique links : 51
+
+Page 12
+Found 5 links
+Total unique links : 56
+
+Page 13
+Found 5 links
+Total unique links : 61
+
+Page 14
+Found 2 links
+Total unique links : 63
+
+Page 15
+Found 5 links
+Total unique links : 68
+
+Page 16
+Found 5 links
+Total unique links : 73
+
+Page 17
+Found 5 links
+Total unique links : 78
+
+Page 18
+Found 5 links
+Total unique links : 83
+
+Page 19
+Found 5 links
+Total unique links : 88
+
+Page 20
+Found 5 links
+Total unique links : 93
+
+Page 21
+Found 5 links
+Total unique links : 98
+
+Page 22
+Found 5 links
+Total unique links : 103
+
+Page 23
+Found 5 links
+Total unique links : 108
+
+Page 24
+Found 5 links
+Total unique links : 113
+
+Page 25
+Found 5 links
+Total unique links : 118
+
+Page 26
+Found 5 links
+Total unique links : 123
+
+Page 27
+Found 5 links
+Total unique links : 123
+No new jobs. Stopping.
+Total unique job links collected: 123
+New jobs to scrape: 121
+
+Starting job-description extraction...
+
+Scraping 121 jobs
+[1/121]
+Failed
+[2/121]
+Data Scientist (Fraud Analytics & Investigative Support)
+[3/121]
+10967 IT Data Scientist Principal I
+[4/121]
+Failed
+[5/121]
+Power BI Developer for W2 (With Must Banking Exp)
+[6/121]
+Failed
+[7/121]
+Failed
+[8/121]
+ETL Engineer
+[9/121]
+Power Bi Engineer & Data Analyst (Microsoft Fabric)
+[10/121]
+Data Platform Infrastructure Engineer
+[11/121]
+Failed
+[12/121]
+Senior Team Manager, Data Engineering - Cloud Platform
+[13/121]
+SENIOR DATA ARCHITECT
+[14/121]
+Data Engineer (W2 - NO SPONSORSHIP AVAILABLE)
+[15/121]
+Failed
+[16/121]
+Software Engineer (Data Engineer)
+[17/121]
+Data Analyst / Power Bi Engineer
+[18/121]
+Failed
+[19/121]
+Senior Data Engineer
+[20/121]
+Senior Data Engineer (Databricks & Cloud Analytics
+[21/121]
+Sr Snowflake Data Engineer
+[22/121]
+Lead Data Engineer
+[23/121]
+Lead Data Platform Engineer
+[24/121]
+Data Engineer
+[25/121]
+Senior Security Engineer, Cloud Data Security
+[26/121]
+Azure Data Engineer
+[27/121]
+Failed
+[28/121]
+Data Business Analyst
+[29/121]
+Failed
+[30/121]
+Senior Data Analyst, Risk
+[31/121]
+Data Engineer (Fraud Analytics & Investigative Support)
+[32/121]
+Failed
+[33/121]
+Data Engineer: V
+[34/121]
+Senior Data Engineer | Azure | Plano, TX
+[35/121]
+Senior Manager Data Governance Programs (Global Payments Network)
+[36/121]
+Data Engineer - Snowflake, DBT
+[37/121]
+Azure Data Lead (Azure, ETL, ADF & Databricks)
+[38/121]
+Failed
+[39/121]
+Failed
+[40/121]
+Lead Data Engineer
+[41/121]
+Lead Product Manager, Data & AI Integration, Technology VMO (Project Hire)
+[42/121]
+Failed
+[43/121]
+Failed
+[44/121]
+Sr. BI Developer
+[45/121]
+Snowflake Architect
+[46/121]
+ETL Engineer
+[47/121]
+Senior Data Engineer Cloud & DevOps
+[48/121]
+Failed
+[49/121]
+Entry Level Business Analyst (Business & Data Analytics)
+[50/121]
+Palantir AI and Data Science Engineer
+[51/121]
+Data Analyst - Fraud Intelligence
+[52/121]
+Job Title: Senior Data Engineer / ETL Developer
+[53/121]
+Failed
+[54/121]
+Failed
+[55/121]
+ETL Data Engineer - TS/SCI with Polygraph
+[56/121]
+Failed
+[57/121]
+Senior Analytics Engineer (Power BI & SQL)
+[58/121]
+Data warehouse Architect
+[59/121]
+Senior Data Engineer
+[60/121]
+Data/Software Engineer
+[61/121]
+Senior Manager, Data Center Reliability Engineering - Michigan
+[62/121]
+PowerBI Developer
+[63/121]
+Failed
+[64/121]
+Failed
+[65/121]
+Failed
+[66/121]
+Functional Analyst / Business Analyst - Only W2
+[67/121]
+Failed
+[68/121]
+Data Analyst / Engineer (5 to 10 Years Experience) | W-2 Opportunities
+[69/121]
+Lead Data Engineer
+[70/121]
+Sr. Data Product Manager
+[71/121]
+Failed
+[72/121]
+Failed
+[73/121]
+Senior Analyst, IS Business Intelligence
+[74/121]
+Business Analyst // Local to TX
+[75/121]
+Data Engineering Manager
+[76/121]
+Data Engineering Manager
+[77/121]
+Data engineer
+[78/121]
+Business Director, Insights and Analytics - Community Finance
+[79/121]
+Failed
+[80/121]
+Senior Data Integration Engineer
+[81/121]
+Failed
+[82/121]
+Failed
+[83/121]
+Failed
+[84/121]
+Failed
+[85/121]
+Failed
+[86/121]
+Principal, Data Engineer
+[87/121]
+Failed
+[88/121]
+Failed
+[89/121]
+Failed
+[90/121]
+Senior Specialist, Data Architect
+[91/121]
+Azure Data Engineer
+[92/121]
+Sr. Data Engineer
+[93/121]
+U.S. Data Engineer
+[94/121]
+Failed
+[95/121]
+Project Manager/Data Consultant
+[96/121]
+Failed
+[97/121]
+Senior Associate, Data Architect
+[98/121]
+Lead Data Engineer
+[99/121]
+Failed
+[100/121]
+DATA ENGINEER
+[101/121]
+Senior Data Scientist, RIsk
+[102/121]
+Failed
+[103/121]
+Failed
+[104/121]
+Data Governance Audit Senior Manager - IT Applications
+[105/121]
+Sr Data Engineer - API / Microservices
+[106/121]
+Data & Software Engineer
+[107/121]
+Failed
+[108/121]
+Failed
+[109/121]
+Failed
+[110/121]
+Database Engineer
+[111/121]
+Principal IT Product Manager - Data & Analytics
+[112/121]
+Failed
+[113/121]
+Failed
+[114/121]
+Lead Data Engineer
+[115/121]
+Lead Data Engineer, (Python, AWS)
+[116/121]
+Failed
+[117/121]
+Failed
+[118/121]
+Cloud Data Platform Engineer with Snowflake & Redshiftplatform
+[119/121]
+Failed
+[120/121]
+Data Platform Infrastructure Engineer
+[121/121]
+Failed
+
+Saving output files...
+
+======================================================================
+DICE SCRAPING SUMMARY
+======================================================================
+Links collected: 121
+Jobs successfully saved: 74
+Failed URLs: 47
+======================================================================
+Files saved in: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260723_160936
+Browser closed successfully.
+======================================================================
+DICE SCRAPER FINISHED
+======================================================================

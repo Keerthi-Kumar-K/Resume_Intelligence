@@ -1,0 +1,80 @@
+======================================================================
+WORKDAY SCRAPER STARTED
+======================================================================
+Search URL : https://pfizer.wd1.myworkdayjobs.com/PfizerCareers?startDate=a6e09e1f3296100014ae1d545f3c0098&startDate=a6e09e1f3296100014ae1d5e16f80099&Location_Country=bc33aa3152ec42d4995f4791a106ed09
+Output Folder : C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Workday_20260723_183954
+
+Launching browser...
+Search Keyword : workday
+
+Collecting job links...
+
+Scanning Page 1
+Found 20 links
+Unique links : 20
+
+Scanning Page 2
+Found 20 links
+Unique links : 20
+No new links detected.
+Collected 20 unique links.
+New jobs to scrape : 20
+
+Extracting job descriptions...
+
+Extracting 20 jobs...
+[1/20]
+Failed
+[2/20]
+Failed
+[3/20]
+Failed
+[4/20]
+Failed
+[5/20]
+Failed
+[6/20]
+Failed
+[7/20]
+Failed
+[8/20]
+Failed
+[9/20]
+Failed
+[10/20]
+Failed
+[11/20]
+Medical Analytics, Care Gaps & Customer Segmentation Team, Data Scientist
+[12/20]
+Failed
+[13/20]
+Failed
+[14/20]
+Failed
+[15/20]
+Failed
+[16/20]
+Failed
+[17/20]
+Failed
+[18/20]
+Failed
+[19/20]
+Failed
+[20/20]
+Failed
+
+Saving output files...
+
+======================================================================
+WORKDAY SUMMARY
+======================================================================
+Links : 1
+Jobs  : 1
+Failed: 19
+======================================================================
+
+Workday scraping completed successfully.
+======================================================================
+WORKDAY SCRAPER FINISHED
+======================================================================

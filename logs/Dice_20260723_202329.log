@@ -1,0 +1,22 @@
+======================================================================
+DICE SCRAPER STARTED
+======================================================================
+Search URL: https://www.dice.com/jobs?filters.postedDate=ONE&filters.employmentType=FULLTIME%7CPARTTIME%7CCONTRACTS%7CTHIRD_PARTY&q=dataṅṅ
+Output Folder: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Dice_20260723_202328
+
+Launching browser...
+Search Keyword: dataṅṅ
+
+Collecting Dice job links...
+
+Page 1
+Found 0 links
+Total unique links : 0
+No new jobs. Stopping.
+Total unique job links collected: 0
+New jobs to scrape: 0
+No new jobs found.
+Browser closed successfully.
+======================================================================
+DICE SCRAPER FINISHED
+======================================================================

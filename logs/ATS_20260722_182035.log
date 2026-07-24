@@ -1,0 +1,37 @@
+2026-07-22 18:20:35 | INFO | Starting ATS V4 pipeline.
+2026-07-22 18:20:35 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-22 18:20:35 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-22 18:20:35 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-22 18:20:35 | INFO | Discovered 3 resume files.
+2026-07-22 18:20:35 | INFO | Discovered 2 job files.
+2026-07-22 18:20:35 | ERROR | ATS pipeline failed: Path C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\models\all-MiniLM-L6-v2 not found
+Traceback (most recent call last):
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 1283, in run_pipeline
+    initialize_ranking_engine()
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 872, in initialize_ranking_engine
+    return ATSRankingEngine()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\engine\ats_engine.py", line 185, in __init__
+    self.semantic_engine = SemanticEngine()
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\engine\semantic_engine.py", line 26, in __init__
+    SemanticEngine._model = SentenceTransformer(
+                            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 304, in __init__
+    raise FileNotFoundError(f"Path {model_name_or_path} not found")
+FileNotFoundError: Path C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\models\all-MiniLM-L6-v2 not found
+2026-07-22 18:20:35 | INFO | ================================================================
+2026-07-22 18:20:35 | INFO | ATS V4 EXECUTION SUMMARY
+2026-07-22 18:20:35 | INFO | ================================================================
+2026-07-22 18:20:35 | INFO | Resume files found       : 0
+2026-07-22 18:20:35 | INFO | Resume profiles created  : 0
+2026-07-22 18:20:35 | INFO | Resume failures          : 0
+2026-07-22 18:20:35 | INFO | Job files found          : 0
+2026-07-22 18:20:35 | INFO | Job profiles created     : 0
+2026-07-22 18:20:35 | INFO | Job parsing failures     : 0
+2026-07-22 18:20:35 | INFO | Jobs ranked              : 0
+2026-07-22 18:20:35 | INFO | Comparisons completed    : 0
+2026-07-22 18:20:35 | INFO | Ranking failures         : 0
+2026-07-22 18:20:35 | INFO | Report generated         : False
+2026-07-22 18:20:35 | INFO | Execution time           : 0.01 seconds
+2026-07-22 18:20:35 | INFO | ================================================================

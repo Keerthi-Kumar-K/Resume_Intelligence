@@ -1,0 +1,38 @@
+2026-07-22 18:19:01 | INFO | Starting ATS V4 pipeline.
+2026-07-22 18:19:01 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-22 18:19:01 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-22 18:19:01 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-22 18:19:01 | INFO | Discovered 3 resume files.
+2026-07-22 18:19:01 | INFO | Discovered 2 job files.
+2026-07-22 18:19:01 | ERROR | ATS pipeline failed: argument of type 'WindowsPath' is not iterable
+Traceback (most recent call last):
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 1283, in run_pipeline
+    initialize_ranking_engine()
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\main.py", line 872, in initialize_ranking_engine
+    return ATSRankingEngine()
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\engine\ats_engine.py", line 185, in __init__
+    self.semantic_engine = SemanticEngine()
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\ATS\engine\semantic_engine.py", line 26, in __init__
+    SemanticEngine._model = SentenceTransformer(
+                            ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Karani Keerthi Kumar\AppData\Local\Programs\Python\Python311\Lib\site-packages\sentence_transformers\SentenceTransformer.py", line 303, in __init__
+    if "\\" in model_name_or_path or model_name_or_path.count("/") > 1:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: argument of type 'WindowsPath' is not iterable
+2026-07-22 18:19:01 | INFO | ================================================================
+2026-07-22 18:19:01 | INFO | ATS V4 EXECUTION SUMMARY
+2026-07-22 18:19:01 | INFO | ================================================================
+2026-07-22 18:19:01 | INFO | Resume files found       : 0
+2026-07-22 18:19:01 | INFO | Resume profiles created  : 0
+2026-07-22 18:19:01 | INFO | Resume failures          : 0
+2026-07-22 18:19:01 | INFO | Job files found          : 0
+2026-07-22 18:19:01 | INFO | Job profiles created     : 0
+2026-07-22 18:19:01 | INFO | Job parsing failures     : 0
+2026-07-22 18:19:01 | INFO | Jobs ranked              : 0
+2026-07-22 18:19:01 | INFO | Comparisons completed    : 0
+2026-07-22 18:19:01 | INFO | Ranking failures         : 0
+2026-07-22 18:19:01 | INFO | Report generated         : False
+2026-07-22 18:19:01 | INFO | Execution time           : 0.02 seconds
+2026-07-22 18:19:01 | INFO | ================================================================

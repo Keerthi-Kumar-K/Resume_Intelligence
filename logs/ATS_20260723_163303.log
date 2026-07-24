@@ -1,0 +1,38 @@
+2026-07-23 16:33:03 | INFO | Starting ATS Final pipeline.
+2026-07-23 16:33:03 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-23 16:33:03 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-23 16:33:03 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-23 16:33:03 | INFO | Discovered 3 resume files.
+2026-07-23 16:33:03 | INFO | Discovered 2 job files.
+2026-07-23 16:33:04 | INFO | Parsing resume 1/3: Resume_Keerthi_Kumar_Azure_Databricks.pdf
+2026-07-23 16:33:05 | INFO | Parsing resume 2/3: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf
+2026-07-23 16:33:06 | INFO | Parsing resume 3/3: Resume_Keerthi_Kumar_Snowflake.pdf
+2026-07-23 16:33:07 | INFO | Created 3 resume profiles.
+2026-07-23 16:33:07 | INFO | Parsing job file 1/2: Filtered_JDs_20260722_162924.docx
+2026-07-23 16:33:07 | INFO | Parsing job file 2/2: Filtered_JDs_20260722_164540.docx
+2026-07-23 16:33:12 | INFO | Created 76 job profiles.
+2026-07-23 16:33:12 | INFO | Ranking resumes for job 1/76: Data Management Analyst 4
+2026-07-23 16:33:13 | INFO | Completed ranking for Data Management Analyst 4 | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 42.07
+2026-07-23 16:33:13 | INFO | Ranking resumes for job 2/76: Need Data Engineer (AWS) / Databricks - Dallas, TX
+2026-07-23 16:33:13 | INFO | Completed ranking for Need Data Engineer (AWS) / Databricks - Dallas, TX | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 79.48
+2026-07-23 16:33:13 | INFO | Ranking resumes for job 3/76: Databricks Architect
+2026-07-23 16:33:14 | INFO | Completed ranking for Databricks Architect | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 80.60
+2026-07-23 16:33:14 | INFO | Ranking resumes for job 4/76: Senior BI/Tableau Analyst
+2026-07-23 16:33:14 | INFO | Completed ranking for Senior BI/Tableau Analyst | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 20.90
+2026-07-23 16:33:14 | INFO | Ranking resumes for job 5/76: Databricks
+2026-07-23 16:33:15 | WARNING | ATS pipeline was interrupted by the user.
+2026-07-23 16:33:15 | INFO | ================================================================
+2026-07-23 16:33:15 | INFO | ATS FINAL EXECUTION SUMMARY
+2026-07-23 16:33:15 | INFO | ================================================================
+2026-07-23 16:33:15 | INFO | Resume files found       : 3
+2026-07-23 16:33:15 | INFO | Resume profiles created  : 3
+2026-07-23 16:33:15 | INFO | Resume failures          : 0
+2026-07-23 16:33:15 | INFO | Job files found          : 2
+2026-07-23 16:33:15 | INFO | Job profiles created     : 76
+2026-07-23 16:33:15 | INFO | Job parsing failures     : 0
+2026-07-23 16:33:15 | INFO | Jobs ranked              : 4
+2026-07-23 16:33:15 | INFO | Comparisons completed    : 12
+2026-07-23 16:33:15 | INFO | Ranking failures         : 0
+2026-07-23 16:33:15 | INFO | Report generated         : False
+2026-07-23 16:33:15 | INFO | Execution time           : 11.93 seconds
+2026-07-23 16:33:15 | INFO | ================================================================

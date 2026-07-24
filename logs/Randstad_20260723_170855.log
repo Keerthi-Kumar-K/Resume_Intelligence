@@ -1,0 +1,100 @@
+======================================================================
+RANDSTAD SCRAPER STARTED
+======================================================================
+Search URL : https://www.randstadusa.com/jobs/q-data/
+Output Folder : C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\outputs\Randstad_20260723_170853
+
+Launching browser...
+Search Keyword : randstad
+
+Collecting job links...
+
+Scanning Page 1
+Found 63 links
+Unique links: 63
+
+Scanning Page 2
+Found 0 links
+Unique links: 63
+No new links detected.
+Collected 63 unique links.
+New jobs to scrape: 30
+
+Extracting job descriptions...
+
+Extracting 30 jobs...
+[1/30]
+Failed
+[2/30]
+project manager/data consultant.
+[3/30]
+senior data engineer.
+[4/30]
+active directory business analyst.
+[5/30]
+Failed
+[6/30]
+Failed
+[7/30]
+Failed
+[8/30]
+Failed
+[9/30]
+Failed
+[10/30]
+Failed
+[11/30]
+Failed
+[12/30]
+Failed
+[13/30]
+Failed
+[14/30]
+Failed
+[15/30]
+Failed
+[16/30]
+Failed
+[17/30]
+Failed
+[18/30]
+Failed
+[19/30]
+Failed
+[20/30]
+Failed
+[21/30]
+Failed
+[22/30]
+Failed
+[23/30]
+Failed
+[24/30]
+Failed
+[25/30]
+Failed
+[26/30]
+Failed
+[27/30]
+Failed
+[28/30]
+Failed
+[29/30]
+Failed
+[30/30]
+Failed
+
+Saving output files...
+
+============================================================
+RANDSTAD SUMMARY
+============================================================
+Links : 3
+Jobs  : 3
+Failed: 27
+============================================================
+
+Randstad scraping completed successfully.
+======================================================================
+RANDSTAD SCRAPER FINISHED
+======================================================================

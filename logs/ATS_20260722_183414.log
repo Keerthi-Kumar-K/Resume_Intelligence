@@ -1,0 +1,35 @@
+2026-07-22 18:34:14 | INFO | Starting ATS V4 pipeline.
+2026-07-22 18:34:14 | INFO | Resume directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\resumes
+2026-07-22 18:34:14 | INFO | Job directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\jobs
+2026-07-22 18:34:14 | INFO | Output directory: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output
+2026-07-22 18:34:14 | INFO | Discovered 3 resume files.
+2026-07-22 18:34:14 | INFO | Discovered 2 job files.
+2026-07-22 18:34:15 | INFO | Parsing resume 1/3: Resume_Keerthi_Kumar_Azure_Databricks.pdf
+2026-07-22 18:34:16 | INFO | Parsing resume 2/3: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf
+2026-07-22 18:34:17 | INFO | Parsing resume 3/3: Resume_Keerthi_Kumar_Snowflake.pdf
+2026-07-22 18:34:18 | INFO | Created 3 resume profiles.
+2026-07-22 18:34:18 | INFO | Parsing job file 1/2: Filtered_JDs_20260722_162924.docx
+2026-07-22 18:34:20 | INFO | Parsing job file 2/2: Filtered_JDs_20260722_164540.docx
+2026-07-22 18:34:26 | INFO | Created 2 job profiles.
+2026-07-22 18:34:26 | INFO | Ranking resumes for job 1/2: Filtered_JDs_20260722_162924
+2026-07-22 18:34:27 | INFO | Completed ranking for Filtered_JDs_20260722_162924 | Best Resume: Resume_Keerthi_Kumar_Azure_Databricks.pdf | Best Score: 28.97
+2026-07-22 18:34:27 | INFO | Ranking resumes for job 2/2: Filtered_JDs_20260722_164540
+2026-07-22 18:34:30 | INFO | Completed ranking for Filtered_JDs_20260722_164540 | Best Resume: Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf | Best Score: 25.96
+2026-07-22 18:34:30 | INFO | Generating Excel report: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_183414.xlsx
+2026-07-22 18:34:30 | INFO | Excel report generated successfully: C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_183414.xlsx
+2026-07-22 18:34:30 | INFO | ================================================================
+2026-07-22 18:34:30 | INFO | ATS V4 EXECUTION SUMMARY
+2026-07-22 18:34:30 | INFO | ================================================================
+2026-07-22 18:34:30 | INFO | Resume files found       : 3
+2026-07-22 18:34:30 | INFO | Resume profiles created  : 3
+2026-07-22 18:34:30 | INFO | Resume failures          : 0
+2026-07-22 18:34:30 | INFO | Job files found          : 2
+2026-07-22 18:34:30 | INFO | Job profiles created     : 2
+2026-07-22 18:34:30 | INFO | Job parsing failures     : 0
+2026-07-22 18:34:30 | INFO | Jobs ranked              : 2
+2026-07-22 18:34:30 | INFO | Comparisons completed    : 6
+2026-07-22 18:34:30 | INFO | Ranking failures         : 0
+2026-07-22 18:34:30 | INFO | Report generated         : True
+2026-07-22 18:34:30 | INFO | Execution time           : 15.80 seconds
+2026-07-22 18:34:30 | INFO | Output report           : C:\Users\Karani Keerthi Kumar\Downloads\project\Job_Scraper\output\ATS_Result_20260722_183414.xlsx
+2026-07-22 18:34:30 | INFO | ================================================================
