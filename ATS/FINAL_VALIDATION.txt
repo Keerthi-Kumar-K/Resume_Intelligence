@@ -1,0 +1,16 @@
+ATS Final 1.0 validation
+
+- Python compilation: passed
+- ATS engine imports: passed
+- Resume parsing: 3/3 passed
+- JD parsing: 65 jobs created
+- Comparisons: 195/195 completed
+- Ranking failures: 0
+- Excel report generation: passed
+- Ollama/LLM scoring calls: none
+
+Representative deterministic benchmark (semantic model stubbed):
+- AWS/Databricks Data Engineer: Azure Databricks resume clearly ranked first
+- Databricks Architect: Azure Databricks resume clearly ranked first
+- Generic Data Management Analyst: all resumes remained low match
+- Reltio MDM Lead: resumes missing core MDM/Reltio evidence remained low match
