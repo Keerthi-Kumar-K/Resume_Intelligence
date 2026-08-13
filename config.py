@@ -1,137 +1,181 @@
 from pathlib import Path
 
+# ============================================================
+# PROJECT
+# ============================================================
 
-# ==========================================================
-# BASE PATHS
-# ==========================================================
+PROJECT_ROOT = Path.cwd()
 
-BASE_DIR = Path(__file__).resolve().parent
+OUTPUT_ROOT = PROJECT_ROOT / "outputs"
 
-TEMPLATES_DIR = BASE_DIR / "templates"
+LOG_ROOT = PROJECT_ROOT / "logs"
 
+OUTPUT_ROOT.mkdir(exist_ok=True)
 
-# ==========================================================
-# DEFAULT INPUT / OUTPUT PATHS
-# ==========================================================
+LOG_ROOT.mkdir(exist_ok=True)
 
-# Change these defaults or pass command-line arguments to main.py.
+# ============================================================
+# SCRAPER
+# ============================================================
 
-DEFAULT_ATS_EXCEL = (
-    BASE_DIR
-    / "inputs"
-    / "ATS_Result.xlsx"
-)
+MAX_PAGES = 100
 
-DEFAULT_FILTERED_JD = (
-    BASE_DIR
-    / "inputs"
-    / "Filtered_JDs.docx"
-)
+SCROLL_PAUSE = 2
 
-DEFAULT_OUTPUT_DIR = (
-    BASE_DIR
-    / "outputs"
-)
+PAGE_LOAD_WAIT = 5
 
+HEADLESS = False
 
-# ==========================================================
-# ATS SCORE FILTERS
-# ==========================================================
+RETRY_COUNT = 2
 
-SCORE_THRESHOLD = 80.0
+# ============================================================
+# DATA ROLE KEYWORDS
+# ============================================================
 
-MIN_SCORE_TO_TAILOR = 45.0
+DATA_ROLE_KEYWORDS = [
 
+# ---------------------------
+# Data Engineering
+# ---------------------------
 
-# ==========================================================
-# OLLAMA CONFIGURATION
-# ==========================================================
+"data engineer",
+"senior data engineer",
+"principal data engineer",
+"lead data engineer",
 
-OLLAMA_URL = "http://localhost:11434/api/chat"
+"etl developer",
+"etl engineer",
+"elt developer",
+"elt engineer",
 
-OLLAMA_MODEL = "qwen2.5:3b"
+"big data engineer",
 
-OLLAMA_TIMEOUT_SECONDS = 600
+"data platform engineer",
 
-OLLAMA_KEEP_ALIVE = "30m"
+"data pipeline engineer",
 
-OLLAMA_NUM_CTX = 4096
+"lakehouse engineer",
 
-OLLAMA_NUM_PREDICT = 1200
+"data warehouse engineer",
 
-OLLAMA_TEMPERATURE = 0.15
+"analytics engineer",
 
+# ---------------------------
+# Snowflake
+# ---------------------------
 
-# ==========================================================
-# RESUME TEMPLATE MAPPING
-# ==========================================================
-#
-# Key:
-# Exact PDF filename appearing in ATS Excel
-#
-# Value:
-# Corresponding LaTeX template file
-#
-# ==========================================================
+"snowflake developer",
 
-RESUME_TEMPLATE_MAP = {
+"snowflake engineer",
 
-    "Resume_Keerthi_Kumar_Azure_Databricks.pdf":
-        TEMPLATES_DIR
-        / "Resume_Keerthi_Kumar_Azure_Databricks.tex",
+"snowflake architect",
 
-    "Resume_Keerthi_Kumar_Snowflake.pdf":
-        TEMPLATES_DIR
-        / "Resume_Keerthi_Kumar_Snowflake.tex",
+# ---------------------------
+# Databricks
+# ---------------------------
 
-    "Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.pdf":
-        TEMPLATES_DIR
-        / "Resume_Keerthi_Kumar_Karani_Informatica_Abinitio.tex",
-}
+"databricks engineer",
 
+"databricks developer",
 
-# ==========================================================
-# EVIDENCE FILE
-# ==========================================================
+"spark engineer",
 
-EVIDENCE_FILE = (
-    BASE_DIR
-    / "data"
-    / "resume_evidence.json"
-)
+"pyspark",
 
+# ---------------------------
+# BI
+# ---------------------------
 
-# ==========================================================
-# LATEX COMPILER
-# ==========================================================
-#
-# MiKTeX and TeX Live commonly include latexmk.
-#
-# ==========================================================
+"bi developer",
 
-LATEX_COMMAND = [
-    "latexmk",
-    "-pdf",
-    "-interaction=nonstopmode",
-    "-halt-on-error",
+"business intelligence",
+
+"power bi",
+
+"tableau",
+
+"report developer",
+
+"reporting analyst",
+
+# ---------------------------
+# Analytics
+# ---------------------------
+
+"data analyst",
+
+"analytics analyst",
+
+"business analyst",
+
+"product analyst",
+
+"data science",
+
+"data scientist",
+
+"machine learning engineer",
+
+"ai engineer",
+
+"ml engineer",
+
+# ---------------------------
+# Data Architecture
+# ---------------------------
+
+"data architect",
+
+"cloud data engineer",
+
+"azure data engineer",
+
+"aws data engineer",
+
+"gcp data engineer",
+
+# ---------------------------
+# Governance
+# ---------------------------
+
+"mdm",
+
+"master data management",
+
+"data governance",
+
+"data quality",
+
+"data steward",
+
+"data modeler",
+
+# ---------------------------
+# Streaming
+# ---------------------------
+
+"kafka",
+
+"kinesis",
+
+"streaming",
+
+"event streaming",
+
+# ---------------------------
+# Generic
+# ---------------------------
+
+"etl",
+
+"elt",
+
+"analytics",
+
+"warehouse",
+
+"lakehouse",
+
+"data"
+
 ]
-
-
-# ==========================================================
-# TAILORING LIMITS
-# ==========================================================
-#
-# The first version updates only:
-#
-# - Professional Summary
-# - Technical Skills
-# - Latest Experience
-# - Second-Latest Experience
-#
-# ==========================================================
-
-MAX_SUMMARY_BULLETS = 7
-
-MAX_EXPERIENCE_1_BULLETS = 10
-
-MAX_EXPERIENCE_2_BULLETS = 9
