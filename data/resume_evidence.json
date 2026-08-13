@@ -1,0 +1,77 @@
+{
+  "candidate": {
+    "years_experience": 8,
+    "approved_domains": ["insurance", "healthcare", "telecom", "HRMS", "device protection", "warranty analytics"],
+    "approved_certifications": [
+      "Azure Fundamentals",
+      "Azure Data Fundamentals",
+      "Microsoft Fabric Analytics Associate",
+      "Microsoft Fabric Data Engineer Associate",
+      "Google Engineer Data in Google Cloud"
+    ]
+  },
+  "global_approved_tools": [
+    "Python", "PySpark", "Pandas", "NumPy", "SQL", "T-SQL", "Spark SQL", "Unix Shell Scripting",
+    "Azure Databricks", "Delta Lake", "Databricks SQL", "Databricks Jobs", "Unity Catalog",
+    "Azure Data Factory", "Azure Event Hubs", "Azure Synapse Analytics", "ADLS Gen2",
+    "Azure Key Vault", "Azure Functions", "Azure Logic Apps", "Azure DevOps", "Azure Monitor",
+    "Azure Purview", "Cosmos DB", "AWS S3", "AWS Glue", "AWS EMR", "AWS Redshift",
+    "AWS Kinesis", "AWS Lambda", "AWS Step Functions", "AWS DMS", "CloudWatch", "QuickSight",
+    "Snowflake", "Teradata", "Oracle", "SQL Server", "MySQL", "PostgreSQL", "Db2",
+    "Kafka", "Airflow", "Hive", "SSIS", "Informatica", "Talend", "DataStage", "Ab Initio",
+    "Power BI", "Tableau", "Excel", "Power Query", "Git", "GitHub", "Jenkins", "Bitbucket",
+    "Docker", "Erwin", "Lucidchart"
+  ],
+  "global_approved_capabilities": [
+    "ETL", "ELT", "batch processing", "near real-time processing", "streaming ingestion",
+    "data pipelines", "data integration", "data migration", "CDC", "incremental loading",
+    "medallion architecture", "dimensional modeling", "star schema", "fact and dimension modeling",
+    "data quality", "data validation", "query optimization", "partition pruning", "Z-ORDER", "OPTIMIZE",
+    "data governance", "data lineage", "metadata management", "business glossaries", "data classification",
+    "RBAC", "row-level security", "column-level security", "dynamic data masking", "encryption",
+    "CI/CD", "technical leadership", "code reviews", "design reviews", "stakeholder collaboration",
+    "dashboard development", "semantic modeling", "predictive analytics", "root cause analysis"
+  ],
+  "approved_metrics": [
+    "1M+ daily transactions", "10+ partner APIs", "sub-minute data availability", "45% pipeline time reduction",
+    "30% reduction in reporting errors", "40% query performance improvement", "50M+ records",
+    "3x faster fraud pattern identification", "99.5%+ pipeline reliability", "35% faster deployment cycles",
+    "60% reduction in data silos", "98.5% payroll accuracy", "40% reduction in BI tickets",
+    "35% query response improvement", "25% attrition prediction improvement", "60% better discoverability",
+    "40% faster incident resolution", "45% compliance review time reduction", "20% reduction in time-to-hire",
+    "30% forecasting accuracy improvement", "30% data accessibility improvement", "40% migration runtime reduction",
+    "35% dashboard query improvement", "50% data latency reduction", "20% fewer pipeline failures",
+    "15% churn reduction", "30% retrieval efficiency improvement", "35% reporting efficiency improvement",
+    "40% lower decision latency", "25% reduction in manual oversight"
+  ],
+  "experience": {
+    "assurant": {
+      "role": "Senior Data Engineer",
+      "dates": "Jul 2025 - Present",
+      "approved_tools": [
+        "Azure Databricks", "Delta Lake", "PySpark", "Spark SQL", "Unity Catalog", "Azure Purview",
+        "Azure Event Hubs", "Azure Data Factory", "Azure Functions", "ADLS Gen2", "Databricks SQL",
+        "Databricks Jobs", "Azure Key Vault", "Azure Monitor", "Azure DevOps", "Git", "Python"
+      ],
+      "approved_capabilities": [
+        "medallion architecture", "real-time and batch ingestion", "CDC", "incremental loading",
+        "data quality validation", "query optimization", "data governance", "data lineage",
+        "dynamic data masking", "semantic data layers", "CI/CD", "offshore team leadership"
+      ]
+    },
+    "community_dreams": {
+      "role": "Data Engineer",
+      "dates": "Sep 2023 - Jul 2025",
+      "approved_tools": [
+        "Azure Databricks", "Delta Lake", "PySpark", "Spark SQL", "Unity Catalog", "Apache Airflow",
+        "Azure Data Factory", "Power BI", "ADLS Gen2", "Databricks Jobs", "Databricks SQL",
+        "Azure Key Vault", "Azure Purview", "Azure Monitor", "Python", "Azure DevOps", "Git"
+      ],
+      "approved_capabilities": [
+        "HR source integration", "dimensional modeling", "self-service analytics", "query optimization",
+        "attrition analytics", "data validation", "metadata management", "workflow orchestration",
+        "data classification", "business glossaries", "workforce dashboards", "workforce planning"
+      ]
+    }
+  }
+}
